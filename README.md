@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ishika-0713
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning DSA and deep learning.
-- 💞️ I’m looking to collaborate on projects related to Data analysis.
+- 💞️ I’m looking to collaborate on projects related to Data analysis and Machine learning.
 - 📫 How to reach me - https://www.linkedin.com/in/ishika-mathur
 
 <!---
