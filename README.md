@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishika-0713
 - 👀 I’m interested in system designing, machine learning, deep learning and computer vision.
-- 🌱 I’m currently learning DSA.
+- 🌱 I’m currently learning DSA in C++.
 - 💞️ I’m looking to collaborate on projects related to Data analysis and system designing.
 - 📫 How to reach me - https://www.linkedin.com/in/ishika-mathur
 
